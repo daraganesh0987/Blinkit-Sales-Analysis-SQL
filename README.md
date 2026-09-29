@@ -1,6 +1,7 @@
 # Blinkit-Sales-Analysis-SQL
-Blinkit-Sales-Analysis-SQL
+
 **Blinkit Sales Analysis – SQL & Power BI**
+
 **📌 Project Overview**
 This project presents an end-to-end analysis of Blinkit sales data using SQL Server and Microsoft Power BI.
 The objective is to analyze sales performance, product characteristics, outlet performance, customer ratings, and outlet distribution through SQL-based analysis and an interactive Power BI dashboard.
