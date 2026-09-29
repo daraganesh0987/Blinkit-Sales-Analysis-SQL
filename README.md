@@ -3,28 +3,38 @@
 **Blinkit Sales Analysis – SQL & Power BI**
 
 **📌 Project Overview**
+
 This project presents an end-to-end analysis of Blinkit sales data using SQL Server and Microsoft Power BI.
+
 The objective is to analyze sales performance, product characteristics, outlet performance, customer ratings, and outlet distribution through SQL-based analysis and an interactive Power BI dashboard.
+
 The project covers the complete analytics workflow:
 
 Data → Cleaning → SQL Analysis → KPI Development → Power BI Visualization → Business Insights
 
-🎯 Business Requirement
+**🎯 Business Requirement**
 
 To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using KPIs and interactive visualizations.
 
-📊 Key KPIs
+**📊 Key KPIs**
 
 The Power BI dashboard provides the following primary KPIs:
 
-KPI	Description
+| KPI | Description | Dashboard Value |
+| --- | --- | --- |
+| **Total Sales** | Overall revenue generated | **$1.2M** |
+| **Average Sales** | Average sale value | **$141** |
+| **Number of Items** | Total item records | **8,523** |
+| **Average Rating** | Mean customer rating | **3.92** |
+
+**KPI	Description**
 Total Sales	Overall revenue generated from items sold
 Average Sales	Average sales value
 Number of Items	Total number of item records
 Average Rating	Average customer rating
 Dashboard KPI Values
 
-Based on the dashboard:
+**Based on the dashboard:**
 
 Total Sales: $1.2M
 Average Sales: $141
@@ -33,7 +43,7 @@ Average Rating: 3.92
 
 Note: These values represent the current version of the dashboard shown in this project.
 
-🛠️ Tools & Technologies
+**🛠️ Tools & Technologies**
 SQL Server
 SQL Server Management Studio (SSMS)
 Microsoft Power BI
@@ -44,7 +54,7 @@ PowerPoint
 
 Before analysis, the Item_Fat_Content field was standardized because the dataset contained multiple representations of the same categories.
 
-For example:
+**For example:**
 
 LF
 low fat
@@ -78,7 +88,7 @@ The interactive dashboard analyzes Blinkit sales performance across multiple dim
 
 Dashboard Features
 
-The dashboard includes:
+**The dashboard includes:**
 
 KPI cards
 Date/outlet analysis
